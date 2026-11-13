@@ -65,4 +65,4 @@ jupyter notebook
 Built as a quick-reference cheat sheet and practical codebase for Data Science and Machine Learning revision.
 
 ⭐️ If you find these notes helpful, feel free to star this repository!
-Mr AJ --> 
+Mr AJ --> https://github.com/mraj-77/Numpy
